@@ -3,10 +3,8 @@ What you need for making your own tracks for Rally Speedway
 
 1. Download Tiled Map Editor at https://www.mapeditor.org/
 
-2. Place the file "tiled-rallytracks-extension.js" in the extension folder. Here is where you find it:
-Windows: C:/Users/<USER>/AppData/Local/Tiled/extensions/
-macOS: ~/Library/Preferences/Tiled/extensions/
-Linux: ~/.config/tiled/extensions/
+2. Place the file tiled-rallytracks-extension.js in the extension folder. Here is where you find it:
+Windows: C:/Users/<USER>/AppData/Local/Tiled/extensions/, macOS: ~/Library/Preferences/Tiled/extensions/, Linux: ~/.config/tiled/extensions/
 
 3. Load tracks.tmx in Tiled and use this as a template for your own tracks. The file contains a map with five layers, each layer represent a track.
 
