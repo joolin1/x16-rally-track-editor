@@ -26,4 +26,4 @@ Change the properties "Horizontal Start Block" and "Vertical Start Block" to sta
 
 Each track must have a contiguous route. In crossings without arrows the route will continue straight ahead. Note that this does not mean that the track must start and end at the same block. It can end elsewhere. You can also add multiple start/finish blocks away from the route. The player will be able to finish the race by reaching them after driving the distance of the default route.
 
-The maps that hold your tracks are infinite. This means that if cars are going over the edge they will turn up on the exact opposite location. With help of this you can for example create an illusion of very extensive tracks. "Texas Roadtrip" is an example of this.
+The maps that hold your tracks are infinite. This means that if cars are going over the edge they will turn up on the exact opposite location. With help of this you can for example create an illusion of very extensive tracks. "Northbound" is an example of this.
